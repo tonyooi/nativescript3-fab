@@ -1,0 +1,11 @@
+{
+   "name": "tns30fabts",
+   "version": "0.0.1",
+   "main": "fab",
+   "nativescript": {
+       "platforms": {
+           "ios": "3.0.0",
+           "android": "3.0.0"
+       }
+   }
+}
